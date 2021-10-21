@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johnfmack
 - 👀 I’m interested in ...web design, web development and javascript frameworks (react and angular), graphic design, video
 - 🌱 I’m currently learning azure cloud...
-- 💞️ I’m looking to collaborate on ... web redesigns
+- 💞️ I’m looking to collaborate on ... application development and web redesigns
 - 📫 How to reach me ...jmackay101@gmail.com
 
 <!---
